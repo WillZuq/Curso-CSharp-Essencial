@@ -1,0 +1,15 @@
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\bin\Debug\net8.0\TipoDados2.exe
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\bin\Debug\net8.0\TipoDados2.deps.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\bin\Debug\net8.0\TipoDados2.runtimeconfig.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\bin\Debug\net8.0\TipoDados2.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\bin\Debug\net8.0\TipoDados2.pdb
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.GeneratedMSBuildEditorConfig.editorconfig
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.AssemblyInfoInputs.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.AssemblyInfo.cs
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.csproj.CoreCompileInputs.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.sourcelink.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\refint\TipoDados2.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.pdb
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\TipoDados2.genruntimeconfig.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\TipoDados2\obj\Debug\net8.0\ref\TipoDados2.dll

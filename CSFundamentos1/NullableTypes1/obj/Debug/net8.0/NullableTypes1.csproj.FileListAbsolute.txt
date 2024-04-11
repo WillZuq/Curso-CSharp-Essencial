@@ -1,0 +1,15 @@
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\bin\Debug\net8.0\NullableTypes1.exe
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\bin\Debug\net8.0\NullableTypes1.deps.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\bin\Debug\net8.0\NullableTypes1.runtimeconfig.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\bin\Debug\net8.0\NullableTypes1.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\bin\Debug\net8.0\NullableTypes1.pdb
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.GeneratedMSBuildEditorConfig.editorconfig
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.AssemblyInfoInputs.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.AssemblyInfo.cs
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.csproj.CoreCompileInputs.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.sourcelink.json
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\refint\NullableTypes1.dll
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.pdb
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\NullableTypes1.genruntimeconfig.cache
+c:\temp\ws-cs\curso-csharp-essencial\Curso-CSharp-Essencial\CSFundamentos1\NullableTypes1\obj\Debug\net8.0\ref\NullableTypes1.dll
